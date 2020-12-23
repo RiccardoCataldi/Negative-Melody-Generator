@@ -1,4 +1,4 @@
-# Edoardo-Negative-Melody-Generator-
+# Edoardo-Negative-Melody-Generator
 Negative Melody Generator 
 
 If you don't know anything about music theory, here's a link to a youtube video where i got the inspiration from :
