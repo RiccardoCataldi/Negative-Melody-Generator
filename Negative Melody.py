@@ -3,7 +3,7 @@ from music21 import *
 environment.set('musescoreDirectPNGPath', 'C:/Program Files/MuseScore 3/bin/MuseScore3.exe')
 environment.set("musicxmlPath", 'C:/Program Files/MuseScore 3/bin/MuseScore3.exe')
 
-notelis = input('insert melody(each note needs to be separeted by space): ')
+notelis = input('Insert melody.Each note needs to be separeted by space. (Ex. a4 c5 b4 a4 e5): ')
 notelist = notelis.split()
 d = {}
 for x in range(len(notelist)):
