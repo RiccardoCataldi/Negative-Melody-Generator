@@ -1,7 +1,7 @@
 # Edoardo(Negative-Melody-Generator)
 Negative Melody Generator 
 
-If you don't know anything about music theory, here's a link to a youtube video where i got the inspiration from :
+If you're interested about music theory and want to know more about "Edoardo", here's a link to a YouTube video where you can find more details about my inspiration for the project:
 
 https://www.youtube.com/watch?v=0oI2iFrzA0o&t=226s
 
