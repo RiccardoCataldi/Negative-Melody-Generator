@@ -1,4 +1,4 @@
-# Edoardo(Negative-Melody-Generator)
+# (Negative-Melody-Generator)
 Negative Melody Generator 
 
 If you're interested about music theory and want to know more about "Edoardo", here's a link to a YouTube video where you can find more details about my inspiration for the project:
