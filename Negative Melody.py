@@ -1,5 +1,7 @@
 from music21 import *
 
+from music21 import stream
+
 environment.set('musescoreDirectPNGPath', 'C:/Program Files/MuseScore 3/bin/MuseScore3.exe')
 environment.set("musicxmlPath", 'C:/Program Files/MuseScore 3/bin/MuseScore3.exe')
 
@@ -40,7 +42,6 @@ for i in range(len(streamtonote)):
 
 print(newlist)
 
-from music21 import stream
 s = stream.Stream()
 for i in newlist:
     s.append(i)
