@@ -5,5 +5,5 @@ If you're interested about music theory and want to know more about it, here's a
 
 https://www.youtube.com/watch?v=0oI2iFrzA0o&t=226s
 
-If you have any advice or suggestion please mail me at: riccardo.cataldi.1995@gmail.com
+
 
